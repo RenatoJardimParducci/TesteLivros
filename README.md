@@ -1,3 +1,4 @@
 # TesteLivros
 Teste Git Line Command
-Primeira alteração
+Primeira alteraÃ§Ã£o
+Segunda alteracao na Master do Git Hub
